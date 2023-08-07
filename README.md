@@ -9,7 +9,21 @@ This repo is the official implementation of `Towards Open Vocabulary Video Insta
 
 LV-VIS is a dataset/benchmark for Open-Vocabulary Video Instance Segmentation. It contains a total of 4,828 videos with pixel-level segmentation masks for 26,099 objects from 1,196 unique categories.
 
-<img src="visualizations/00000.gif" alt="Demo" width="300" height="180">
+<img src="visualizations/00000.gif" alt="Demo" width="240" height="140"> <img src="visualizations/00001.gif" alt="Demo" width="240" height="140">
+<img src="visualizations/00005.gif" alt="Demo" width="240" height="140">
+<img src="visualizations/00012.gif" alt="Demo" width="240" height="140">
+<img src="visualizations/00013.gif" alt="Demo" width="240" height="140">
+<img src="visualizations/00018.gif" alt="Demo" width="240" height="140">
+<img src="visualizations/00028.gif" alt="Demo" width="240" height="140">
+<img src="visualizations/00035.gif" alt="Demo" width="240" height="140">
+<img src="visualizations/00058.gif" alt="Demo" width="240" height="140">
+<img src="visualizations/00066.gif" alt="Demo" width="240" height="140">
+<img src="visualizations/00078.gif" alt="Demo" width="240" height="140">
+<img src="visualizations/00087.gif" alt="Demo" width="240" height="140">
+<img src="visualizations/00119.gif" alt="Demo" width="240" height="140">
+<img src="visualizations/00129.gif" alt="Demo" width="240" height="140">
+<img src="visualizations/00199.gif" alt="Demo" width="240" height="140">
+<img src="visualizations/00203.gif" alt="Demo" width="240" height="140">
 
 <!--
 ![](.images/gifs/YFCC100M_8.gif) ![](.images/gifs/Charades_5.gif)
