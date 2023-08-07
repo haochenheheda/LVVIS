@@ -9,11 +9,8 @@ This repo is the official implementation of `Towards Open Vocabulary Video Insta
 
 LV-VIS is a dataset/benchmark for Open-Vocabulary Video Instance Segmentation. It contains a total of 4,828 videos with pixel-level segmentation masks for 26,099 objects from 1,196 unique categories.
 
-![](.images/gifs/AVA_2.gif) ![](.images/gifs/AVA_3.gif) ![](.images/gifs/AVA_5.gif) ![](.images/gifs/AVA_9.gif)
-![](.images/gifs/AVA_10.gif) ![](.images/gifs/BDD_2.gif) ![](.images/gifs/BDD_4.gif)  ![](.images/gifs/Charades_7.gif)
-![](.images/gifs/Charades_10.gif) ![](.images/gifs/HACS_2.gif) ![](.images/gifs/HACS_7.gif) ![](.images/gifs/HACS_8.gif)
-![](.images/gifs/HACS_10.gif) ![](.images/gifs/LaSOT_2.gif) ![](.images/gifs/LaSOT_4.gif) ![](.images/gifs/LaSOT_8.gif)
-![](.images/gifs/YFCC100M_2.gif) ![](.images/gifs/YFCC100M_6.gif)
+<img src="visualizations/00000.gif" alt="Demo" width="300" height="180">
+
 <!--
 ![](.images/gifs/YFCC100M_8.gif) ![](.images/gifs/Charades_5.gif)
 -->
