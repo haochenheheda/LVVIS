@@ -2,8 +2,12 @@
 
 This repo is the official implementation of `Towards Open Vocabulary Video Instance Segmengtation (ICCV2023)`
 
-[`PDF`](https://arxiv.org/pdf/2304.01715.pdf) | [`Project Page`](xx) | [`Leaderboard`](xx)
 
+## [Towards Open Vocabulary Video Instance Segmengtation](https://arxiv.org/abs/2102.01558)
+
+>[Haochen Wang](https://scholar.google.com/citations?user=WTZX3y8AAAAJ&hl)<sup>1</sup>\, Cilin Yan<sup>2</sup>\, Shuai Wang <sup>1</sup>\, Xiaolong Jiang <sup>3</sup>\, Xiaolong Jiang <sup>3</sup>\, Xu Tang<sup>3</sup>\, Yao Hu<sup>2</sup>, Efstratios Gavves <sup>1</sup>
+
+><sup>1</sup>University of Amsterdam, <sup>2</sup>Beihang University, <sup>3</sup>Xiaohongshu Inc.
 
 ## LV-VIS dataset
 
@@ -31,11 +35,11 @@ LV-VIS is a dataset/benchmark for Open-Vocabulary Video Instance Segmentation. I
 
 ### Dataset Download
 
-- [Training Videos](xx)
-- [Validation Videos](xx)
-- [Test Videos](xx)
-- [Training Annotations](xx)
-- [Validation Annotations](xx)
+- Training Videos
+- [Validation Videos](https://drive.google.com/file/d/1vTYUz_XLOBnYb9e7upJsZM-nQz2S6wDn/view?usp=drive_link)
+- [Test Videos](https://drive.google.com/file/d/13Hgz2hxOPbe4_yTiUpwWb2ZWphaP06AF/view?usp=drive_link)
+- Training Annotations
+- [Validation Annotations](https://drive.google.com/file/d/1hvZHShzVNmxIQrGGB1chZTV2nqGShi6X/view?usp=drive_link)
 
 ### Dataset Structure
 
@@ -73,7 +77,7 @@ This platform is a smart video segmentation annotation tool based on [Lableme](h
 
 ## TODO
 
-* Evaluation Code
+* Training Set
 * Training/Inference code of OV2Seg
 * Leaderboard for Val/test set
 
