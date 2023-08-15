@@ -1,6 +1,6 @@
 # LV-VIS: Large-Vocabulary Video Instance Segmentation dataset
 
-This repo is the official implementation of `Towards Open Vocabulary Video Instance Segmengtation (ICCV2023)`
+This repo is the official implementation of `Towards Open Vocabulary Video Instance Segmengtation (ICCV2023 oral)`
 
 
 ## [Towards Open Vocabulary Video Instance Segmengtation](https://arxiv.org/abs/2102.01558)
