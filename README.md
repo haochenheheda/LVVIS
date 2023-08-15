@@ -35,10 +35,10 @@ LV-VIS is a dataset/benchmark for Open-Vocabulary Video Instance Segmentation. I
 
 ### Dataset Download
 
-- Training Videos
+- [Training Videos](https://drive.google.com/file/d/1er2lBQLF75TI5O4wzGyur0YYoohMK6C3/view?usp=sharing)
 - [Validation Videos](https://drive.google.com/file/d/1vTYUz_XLOBnYb9e7upJsZM-nQz2S6wDn/view?usp=drive_link)
 - [Test Videos](https://drive.google.com/file/d/13Hgz2hxOPbe4_yTiUpwWb2ZWphaP06AF/view?usp=drive_link)
-- Training Annotations
+- [Training Annotations](https://drive.google.com/file/d/18ifd40HuXbjKBtwpUzmboucmOSuAzD1n/view?usp=sharing)
 - [Validation Annotations](https://drive.google.com/file/d/1hvZHShzVNmxIQrGGB1chZTV2nqGShi6X/view?usp=drive_link)
 
 ### Dataset Structure
@@ -77,7 +77,6 @@ This platform is a smart video segmentation annotation tool based on [Lableme](h
 
 ## TODO
 
-* Training Set
 * Training/Inference code of OV2Seg
 * Leaderboard for Val/test set
 
