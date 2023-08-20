@@ -88,10 +88,10 @@ This platform is a smart video segmentation annotation tool based on [Lableme](h
 ## Cite
 
 ```
-@article{wang2023towards,
+@inproceedings{wang2023towards,
   title={Towards Open-Vocabulary Video Instance Segmentation},
   author={Wang, Haochen and Wang, Shuai and Yan, Cilin and Jiang, Xiaolong and Tang, XU and Hu, Yao and Xie, Weidi and Gavves, Efstratios},
-  journal={the IEEE/CVF International Conference on Computer Vision 2023},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
   year={2023}
 }
 ```
