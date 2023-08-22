@@ -1,6 +1,6 @@
 # LV-VIS: Large-Vocabulary Video Instance Segmentation dataset
 
-This repo is the official implementation of `Towards Open Vocabulary Video Instance Segmengtation (ICCV2023 oral)`
+This repo is the official implementation of `Towards Open Vocabulary Video Instance Segmentation (ICCV2023 oral)`
 
 
 ## [Towards Open Vocabulary Video Instance Segmengtation](https://arxiv.org/pdf/2304.01715.pdf)
@@ -77,8 +77,8 @@ This platform is a smart video segmentation annotation tool based on [Lableme](h
 
 ## TODO
 
-* Training/Inference code of OV2Seg
-* Leaderboard for Val/test set
+- [ ] Training/Inference code of OV2Seg
+- [ ] Leaderboard for Val/test set
 
 **NOTE:** 
 * We haven't decided to release the annotation file for the test set yet. Please be patient.
@@ -90,7 +90,7 @@ This platform is a smart video segmentation annotation tool based on [Lableme](h
 ```
 @inproceedings{wang2023towards,
   title={Towards Open-Vocabulary Video Instance Segmentation},
-  author={Wang, Haochen and Wang, Shuai and Yan, Cilin and Jiang, Xiaolong and Tang, XU and Hu, Yao and Xie, Weidi and Gavves, Efstratios},
+  author={Wang, Haochen and Yan, Cilin and Wang, Shuai and Jiang, Xiaolong and Tang, XU and Hu, Yao and Xie, Weidi and Gavves, Efstratios},
   booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
   year={2023}
 }
