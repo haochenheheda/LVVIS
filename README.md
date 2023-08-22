@@ -5,7 +5,7 @@ This repo is the official implementation of `Towards Open Vocabulary Video Insta
 
 ## [Towards Open Vocabulary Video Instance Segmentation](https://arxiv.org/pdf/2304.01715.pdf)
 
->[Haochen Wang](https://scholar.google.com/citations?user=WTZX3y8AAAAJ&hl)<sup>1</sup>\, Cilin Yan<sup>2</sup>\, Shuai Wang <sup>1</sup>\, Xiaolong Jiang <sup>3</sup>\, Xiaolong Jiang <sup>3</sup>\, Xu Tang<sup>3</sup>\, Yao Hu<sup>3</sup>, Weidi Xie <sup>4</sup>,Efstratios Gavves <sup>1</sup>
+>[Haochen Wang](https://scholar.google.com/citations?user=WTZX3y8AAAAJ&hl)<sup>1</sup>\, Cilin Yan<sup>2</sup>\, Shuai Wang <sup>1</sup>\, Xiaolong Jiang <sup>3</sup>\, Xu Tang<sup>3</sup>\, Yao Hu<sup>3</sup>, Weidi Xie <sup>4</sup>,Efstratios Gavves <sup>1</sup>
 
 ><sup>1</sup>University of Amsterdam, <sup>2</sup>Beihang University, <sup>3</sup>Xiaohongshu Inc, <sup>4</sup> Shanghai Jiao Tong University.
 
