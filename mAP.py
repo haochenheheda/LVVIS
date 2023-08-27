@@ -4,8 +4,8 @@ import sys
 import numpy as np
 
 
-gt_path = '/home/haochen/workspace/datasets/VIS/LVVIS/val/val_instances.json'
-dt_path = 'output/prompt3/inference/lvvis_val/results.json'
+gt_path = 'val/val_instances.json'
+dt_path = 'output/ov2seg/inference/lvvis_val/results.json'
 
 ytvosGT = LVVIS(gt_path)
 ytvosDT = ytvosGT.loadRes(dt_path)
