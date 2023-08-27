@@ -46,7 +46,7 @@ cd ../../../..
 
 **Structure for dataset**
 
-```shell
+```
 datasets
 |-- LVVIS
 |-- coco
@@ -62,8 +62,8 @@ Please download COCO and LVIS dataset following [the instructions on detectron2]
 
 Download the LV-VIS validation [videos](https://drive.google.com/file/d/1vTYUz_XLOBnYb9e7upJsZM-nQz2S6wDn/view?usp=drive_link) and [annotations](https://drive.google.com/file/d/1hvZHShzVNmxIQrGGB1chZTV2nqGShi6X/view?usp=drive_link), and organize the files according to the following structure.
 
-```shell
-LVVIS/
+```
+datasets/LVVIS/
 `-- val
     |-- JPEGImages
     `-- val_instances.json
@@ -72,6 +72,11 @@ LVVIS/
 ### Weight Preparation
 
 Download ResNet50 and Swin-B weight and put them under models directory.
+
+```
+models
+`-- resnet50_miil_21k.pkl
+```
 
 ## Train
 We provide a script `scripts/train.sh`, that is made to train the OV2Seg model on LVIS dataset.
