@@ -69,9 +69,11 @@ datasets/LVVIS/
     `-- val_instances.json
 ```
 
-### Weight Preparation
+### Pretrained Model Preparation
 
-Download ResNet50 and Swin-B weight and put them under models directory.
+Our paper uses ImageNet-21K pretrained models that are not part of Detectron2 (ResNet-50-21K from [MIIL](https://github.com/Alibaba-MIIL/ImageNet21K) and SwinB-21K from [Swin-Transformer](https://github.com/microsoft/Swin-Transformer)). Before training, 
+please download the models and place them under `models/`, and following [this tool](./tools/convert-thirdparty-pretrained-model-to-d2.py) to convert the format.
+
 
 ```
 models
