@@ -1,0 +1,8 @@
+opencv-python==4.8.0.74
+cython
+scipy
+shapely
+timm==0.5.4
+h5py
+submitit
+scikit-image

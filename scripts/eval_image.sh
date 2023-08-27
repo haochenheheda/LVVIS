@@ -1,6 +1,7 @@
-python train_net.py --num-gpus 1 --eval-only --config-file configs/lvvis/instance-segmentation/ov2seg_R50_bs16_50ep_lvis.yaml \
-      	SOLVER.IMS_PER_BATCH 16 MODEL.MASK_FORMER.CLIP_CLASSIFIER True \
-	OUTPUT_DIR output/prompt3 MODEL.WEIGHTS output/prompt3/model_final.pth \
+python train_net.py --num-gpus 1 --eval-only \
+	--config-file configs/lvvis/instance-segmentation/ov2seg_R50_bs16_50ep_lvis.yaml \
+    SOLVER.IMS_PER_BATCH 16 MODEL.MASK_FORMER.CLIP_CLASSIFIER True \
+	OUTPUT_DIR output/ov2seg MODEL.WEIGHTS output/ov2seg/model_final.pth \
 	MODEL.MASK_FORMER.NUM_OBJECT_QUERIES 100 MODEL.MASK_FORMER.DEC_LAYERS 7 \
 	MODEL.SEM_SEG_HEAD.NUM_CLASSES 1196 \
 	MODEL.MASK_FORMER.CLIP_PATH "datasets/metadata/fg_bg_5_10_lvvis_ens.npy" \

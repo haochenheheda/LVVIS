@@ -21,9 +21,9 @@ color_map = [[20,255,20], [20, 20, 255], [255, 20, 20], [20, 255, 255], [255,20,
 
 
 output_dir = 'output/lvvis_vis'
-anno_json = '/home/haochen/workspace/datasets/VIS/LVVIS/val/val_instances.json'
-dt_json = 'output/prompt3/inference/lvvis_val/results.json'
-img_dir = '/home/haochen/workspace/datasets/VIS/LVVIS/val/JPEGImages'
+anno_json = 'datasets/LVVIS/val/val_instances.json'
+dt_json = 'output/ov2seg/inference/lvvis_val/results.json'
+img_dir = 'datasets/LVVIS/val/JPEGImages'
 
 
 dt = json.load(open(dt_json, 'r'))
