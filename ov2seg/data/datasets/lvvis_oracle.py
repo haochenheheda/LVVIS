@@ -497,7 +497,7 @@ def register_lvvis_o_instances(name, metadata, json_file, image_root):
     )
 
 _CUSTOM_SPLITS_LVIS = {
-    "lvvis_oracle_val": ("datasets/LVVIS/val/JPEGImages", "datasets/LVVIS/val/image_val_instances.json"),
+    "lvvis_oracle_val":  ("datasets/LVVIS/val/JPEGImages",  "datasets/LVVIS/val/image_val_instances.json"),
     "lvvis_oracle_test": ("datasets/LVVIS/test/JPEGImages", "datasets/LVVIS/test/image_test_instances.json"),
 }
 

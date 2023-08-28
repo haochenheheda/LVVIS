@@ -77,15 +77,17 @@ The annotation files have the same formation as [Youtube-VIS 2019](https://youtu
 
 ## [Annotation Tool](https://github.com/haochenheheda/segment-anything-annotator)
 We used this platform for the annotation of LV-VIS.
-This platform is a smart video segmentation annotation tool based on [Lableme](https://github.com/wkentaro/labelme), [SAM](https://github.com/facebookresearch/segment-anything), and [STCN](https://github.com/haochenheheda/STCN).
+This platform is a smart video segmentation annotation tool based on [Lableme](https://github.com/wkentaro/labelme), [SAM](https://github.com/facebookresearch/segment-anything), and [STCN](https://github.com/haochenheheda/STCN). See [segment-anything-annotator](https://github.com/haochenheheda/segment-anything-annotator).
 
 
 ## [Baseline](https://github.com/haochenheheda/LVVIS/blob/main/Baseline.md)
 
+We provide our baseline OV2Seg code for LV-VIS.
+Please check [Baseline.md](https://github.com/haochenheheda/LVVIS/blob/main/Baseline.md) for more details.
 
-    
 ## TODO
 
+- [x] Training and inference code of OV2Seg
 - [ ] Leaderboard for Val/test set
 
 **NOTE:** 
