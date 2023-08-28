@@ -66,7 +66,8 @@ Download the LV-VIS validation [videos](https://drive.google.com/file/d/1vTYUz_X
 datasets/LVVIS/
 `-- val
     |-- JPEGImages
-    `-- val_instances.json
+    |-- val_instances.json
+    `-- image_val_instances.json # for image oracle evaluation
 ```
 
 ### Pretrained Model Preparation
@@ -105,4 +106,4 @@ You are expected to get results like this:
 
 ## Acknowledgement
 
-This repo is based on [Mask2Former](https://github.com/facebookresearch/Mask2Former) and [detectron2](https://github.com/facebookresearch/detectron2), thanks for their great work!
+This repo is based on [Mask2Former](https://github.com/facebookresearch/Mask2Former), [detectron2](https://github.com/facebookresearch/detectron2), and [Detic](https://github.com/facebookresearch/Detic/tree/main). Thanks for their great work!
