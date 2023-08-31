@@ -105,3 +105,6 @@ Please check [Baseline.md](https://github.com/haochenheheda/LVVIS/blob/main/Base
   year={2023}
 }
 ```
+
+## Acknowledgement
+This repo is built based on [Mask2Former](https://github.com/facebookresearch/Mask2Former) and [Detic](https://github.com/facebookresearch/Detic), thanks for those excellent projects.
