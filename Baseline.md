@@ -99,10 +99,10 @@ sh scripts/eval_image.sh  # evaluate on LV-VIS val set (image oracle)
 
 You are expected to get results like this:
 
-  |         | Backbone | LVVIS val |  LVVIS test | Youtube-VIS2019 | Youtube-VIS2021 | OVIS |
-  |:-------:|:--------:|:---------:|:-----------:|:---------------:|:---------------:|:----:|
-  |  OV2Seg | ResNet50 |  14.2     | 11.4        | 27.2            | 23.6            | 11.2 | 
-  |  OV2Seg | Swin-B   |  21.1     | 16.4        | 37.6            | 33.9            | 17.5 |
+  |         | Backbone | LVVIS val |  LVVIS test | Youtube-VIS2019 | Youtube-VIS2021 | OVIS | weights|
+  |:-------:|:--------:|:---------:|:-----------:|:---------------:|:---------------:|:----:|:------:|
+  |  OV2Seg | ResNet50 |  14.2     | 11.4        | 27.2            | 23.6            | 11.2 | [link](https://drive.google.com/file/d/1YqL0PDmEhLayqaxTab9ag_ZX26ZS-zB4/view?usp=drive_link)|
+  |  OV2Seg | Swin-B   |  21.1     | 16.4        | 37.6            | 33.9            | 17.5 | |
 
 ## Acknowledgement
 
