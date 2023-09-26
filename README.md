@@ -2,6 +2,8 @@
 
 This repo is the official implementation of `Towards Open Vocabulary Video Instance Segmentation (ICCV2023 oral)`
 
+## News
+We are working on the final revision of the annotations. The Codalab set will be released in November.
 
 ## [Towards Open Vocabulary Video Instance Segmentation](https://arxiv.org/pdf/2304.01715.pdf)
 
