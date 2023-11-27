@@ -50,8 +50,8 @@ LV-VIS is a dataset/benchmark for Open-Vocabulary Video Instance Segmentation. I
 
 | | Videos | Annotations | 
 | :---: | :---: | :---: | 
-| Training | [Download](https://drive.google.com/file/d/1er2lBQLF75TI5O4wzGyur0YYoohMK6C3/view?usp=sharing) | [Download](https://drive.google.com/file/d/12L4_RJQtJaXW-FE5dcAqSGJOzQEgI36v/view?usp=drive_link) |
-| Validation | [Download](https://drive.google.com/file/d/1vTYUz_XLOBnYb9e7upJsZM-nQz2S6wDn/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1nmCu0ZagifFIL22r5lWIeB4OIRCeJRld/view?usp=drive_link) |
+| Training | [Download](https://drive.google.com/file/d/1er2lBQLF75TI5O4wzGyur0YYoohMK6C3/view?usp=sharing) | [Download](https://drive.google.com/file/d/1k-o8gBMD7m1-fghw-a1iNDZCi2ZZgV9g/view?usp=sharing) |
+| Validation | [Download](https://drive.google.com/file/d/1vTYUz_XLOBnYb9e7upJsZM-nQz2S6wDn/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1stPD818M3gv7zUV3UIZG1Suru7Tk54jo/view?usp=sharing) |
 | Test | [Download](https://drive.google.com/file/d/13Hgz2hxOPbe4_yTiUpwWb2ZWphaP06AF/view?usp=drive_link) | - |
 
 
