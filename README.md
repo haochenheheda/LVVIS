@@ -101,7 +101,7 @@ Please check [Baseline.md](https://github.com/haochenheheda/LVVIS/blob/main/Base
 ## TODO
 
 - [x] Training and inference code of OV2Seg
-- [ ] Leaderboard for Val/test set
+- [x] Leaderboard for Val/test set
 
 **NOTE:** 
 * We haven't decided to release the annotation file for the test set yet. Please be patient.
