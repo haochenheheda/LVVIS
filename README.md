@@ -52,11 +52,11 @@ LV-VIS is a dataset/benchmark for Open-Vocabulary Video Instance Segmentation. I
 | Test | [Download](https://drive.google.com/file/d/13Hgz2hxOPbe4_yTiUpwWb2ZWphaP06AF/view?usp=drive_link) | - | - |
 -->
 
-| | Videos | Annotations | Submission Example |
-| :---: | :---: | :---: | :---: |
-| Training | [Download](https://drive.google.com/file/d/1er2lBQLF75TI5O4wzGyur0YYoohMK6C3/view?usp=sharing) | [Download](https://drive.google.com/file/d/1k-o8gBMD7m1-fghw-a1iNDZCi2ZZgV9g/view?usp=sharing) | |
-| Validation | [Download](https://drive.google.com/file/d/1vTYUz_XLOBnYb9e7upJsZM-nQz2S6wDn/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1stPD818M3gv7zUV3UIZG1Suru7Tk54jo/view?usp=sharing) | | 
-| Test | [Download](https://drive.google.com/file/d/13Hgz2hxOPbe4_yTiUpwWb2ZWphaP06AF/view?usp=drive_link) | - | [Download](https://drive.google.com/file/d/1SGCDrdV85ptK5zVIgnA7CgklYXfQFKck/view?usp=drive_link) |
+| | Videos | Annotations |  Annotations (oracle) | Submission Example |
+| :---: | :---: | :---: | :---: | :---: |
+| Training | [Download](https://drive.google.com/file/d/1er2lBQLF75TI5O4wzGyur0YYoohMK6C3/view?usp=sharing) | [Download](https://drive.google.com/file/d/1k-o8gBMD7m1-fghw-a1iNDZCi2ZZgV9g/view?usp=sharing) |- | - |
+| Validation | [Download](https://drive.google.com/file/d/1vTYUz_XLOBnYb9e7upJsZM-nQz2S6wDn/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1stPD818M3gv7zUV3UIZG1Suru7Tk54jo/view?usp=sharing) | [Download](https://drive.google.com/file/d/1LuOptZe2GjXa-9QuYveidS-e8xkqsapV/view?usp=sharing) | -  | 
+| Test | [Download](https://drive.google.com/file/d/13Hgz2hxOPbe4_yTiUpwWb2ZWphaP06AF/view?usp=drive_link) | - |  - |[Download](https://drive.google.com/file/d/1SGCDrdV85ptK5zVIgnA7CgklYXfQFKck/view?usp=drive_link) |
 
 
 ### Dataset Structure
