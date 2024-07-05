@@ -19,6 +19,8 @@ We are working on the final revision of the annotations. The Codalab set will be
 
 LV-VIS is a dataset/benchmark for Open-Vocabulary Video Instance Segmentation. It contains a total of 4,828 videos with pixel-level segmentation masks for 26,099 objects from 1,196 unique categories.
 
+LV-VIS is licensed under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) License. The data of LV-VIS is released for non-commercial research purpose only.
+
 <img src="assert/dataset/visualizations/00000.gif" alt="Demo" width="240" height="140"> <img src="assert/dataset/visualizations/00001.gif" alt="Demo" width="240" height="140">
 <img src="assert/dataset/visualizations/00005.gif" alt="Demo" width="240" height="140">
 <img src="assert/dataset/visualizations/00012.gif" alt="Demo" width="240" height="140">
